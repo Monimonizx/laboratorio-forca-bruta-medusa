@@ -195,8 +195,5 @@ Conclusão. Este projeto mostrou que um ataque bem-sucedido só é perigoso se a
 ```
 bruteforce-lab-medusa/
 ├── README.md
-├── images/          # capturas de tela numeradas (01 a 23)
-├── wordlists/       # users.txt e pass.txt
-├── scripts/         # scripts auxiliares (opcional)
-└── evidencias/      # saídas salvas dos comandos (opcional)
+└── images/          # capturas de tela numeradas (01 a 23)
 ```
